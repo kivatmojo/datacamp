@@ -7,7 +7,7 @@
 ### Credential ID: NA | [Credential Link]()
 
 ## Projects
-1. [Analyzing Students' Mental Health]([#analyzing-students-mental-health](https://github.com/kivatmojo/datacamp_sql/blob/main/student_mental_health/README.md#analyzing-students-mental-health))
+1. [Analyzing Students' Mental Health](https://github.com/kivatmojo/datacamp_sql/blob/main/student_mental_health/README.md#analyzing-students-mental-health)
 2. 
 
 ***
