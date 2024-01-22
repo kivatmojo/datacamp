@@ -1,4 +1,4 @@
-# DataCamp SQL Tracks
+# DataCamp
 
 ***
 
